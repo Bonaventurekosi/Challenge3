@@ -18,8 +18,3 @@ Submit your code with your output commented out at the end of your code. You are
 use C, C++, C#, Python or Java to implement this program.
 Please upload your code to GitHub and submit the GitHub link for the same in a word
 document with your name on Canvas under the ‘Assignments’ tab.
-Please click the following link for solutions to the Coding Challenges:
-https://github.com/sethidhruv188/CodingChallenge.git
-** Note: If you have any questions regarding this coding challenge, feel free to post it in the
-weekly-challenge channel in discord!
-Good Luck and Have Fun!
